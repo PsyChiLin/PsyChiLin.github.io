@@ -1,6 +1,9 @@
 # main links links
 main:
   - title: "Home"
+  
+  - title: "Professional"
+    url: /professional/
     
   - title: "Research"
     url: /research/
@@ -8,5 +11,5 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "Resource"
+#    url: //
