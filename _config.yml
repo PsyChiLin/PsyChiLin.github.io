@@ -80,8 +80,7 @@ analytics:
 author:
   name             : "Chi-Lin Yu"
   avatar           : "ChiLinYu.png"
-  bio              : "Psychologist"
-  bio              : "Cognitive Neuroscientist"
+  bio              : "Psychologist     Cognitive Neuroscientist"
   location         : "Taiwan"
   employer         :
   googlescholar    : 
@@ -91,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "PsyChiLin"
   google_plus      :
@@ -99,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-4381-7163"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
