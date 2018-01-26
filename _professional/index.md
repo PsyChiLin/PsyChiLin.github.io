@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: professional
 type: "Undergraduate course"
-permalink: /professional/2014-spring-teaching-1
+permalink: /professional/index
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
