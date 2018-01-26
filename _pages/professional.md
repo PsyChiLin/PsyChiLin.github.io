@@ -1,5 +1,4 @@
 ---
-title:  "Professional"
 layout: archive
 permalink: /professional/
 author_profile: true
@@ -17,26 +16,17 @@ Education
 
 Work experience
 ======
-* National Taiwan University, Dept. of Psychology (Taipei, Taiwan)
-    *Position: Researcher and Data Scientist of Social Cognition, Language Neuroscience Laboratory
-    *Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying
+- National Taiwan University, Dept. of Psychology. *Mentor: Prof. Tai-Li Chou, PhD*
+    - Position: Researcher and Data Scientist of Social Cognition, Language Neuroscience Laboratory
+    - Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying
 mechanism of social cognition in typical developing children.
-    *Identify aberrant cognitive organizations in autism spectrum disorder (ASD) patients and propose a framework for their atypical social processing.
-    *Understand the differences in neural correlates of semantic processing between typical developing subjects and schizophrenia patients.
-    *Investigate language comprehension and the corresponding neural activities in bilingual adults.
-    *Design a new analysis method that implement machine learning algorithms to analyze near infrared spectroscopy (NIRS) data.
-    *Establish a model to interpret the mechanism of human empathy.
-    *Mentor: Prof. Tai-Li Chou, PhD
+    - Identify aberrant cognitive organizations in autism spectrum disorder (ASD) patients and propose a framework for their atypical social processing.
+    - Understand the differences in neural correlates of semantic processing between typical developing subjects and schizophrenia patients.
+    - Investigate language comprehension and the corresponding neural activities in bilingual adults.
+    - Design a new analysis method that implement machine learning algorithms to analyze near infrared spectroscopy (NIRS) data.
+    - Establish a model to interpret the mechanism of human empathy.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
