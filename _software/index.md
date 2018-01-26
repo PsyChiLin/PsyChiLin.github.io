@@ -1,5 +1,6 @@
 ---
 title: "Journal Publications"
+author_profile: true
 ---
 - **Chi-Lin Yu**, Min-Ying Wang, Jon-Fan Hu. (2016) “Valence Processing of First Impressions in the Dorsomedial Prefrontal Cortex: A Near-Infrared Spectroscopy Study”, *NeuroReport*, 27(8), 574-579.
 - **Chi-Lin Yu**, Tai-Li Chou, et al. (in preparation) “Aberrant Functional Brain Organization of Youths with Autism: A Theory of Mind Network Perspective”
