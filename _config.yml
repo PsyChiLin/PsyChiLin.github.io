@@ -223,12 +223,12 @@ defaults:
       share: true
       comment: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: default
-      author_profile: true
+  #- scope:
+  #    path: ""
+  #    type: publications
+  #  values:
+  #    layout: default
+  #    author_profile: true
   # _software
   - scope:
       path: ""
