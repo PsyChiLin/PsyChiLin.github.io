@@ -14,5 +14,5 @@ main:
   - title: "Software"
     url: /software/
     
-#  - title: "Resource"
-#    url: //
+  - title: "Talk"
+    url: /_talks/
