@@ -1,14 +1,10 @@
 ---
 permalink: /
-title: "Chi-Lin Yu"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*We have to look at the whole picture, a brain in the midst of and interacting with other brains, not just one brain in isolation.*
 
 I am a Psychologist and Cognitive Neuroscientist in Taiwan. I study how people  think about the minds of other people, how people's internal world inetract with external social world, and how these mechanisms become dysfunction. In particular, social cogntion, empathy and theory of mind (ToM) are the topics under investigation. I use a combination of three research perspectives – behavioral experiments, neuroimaging and methodology - to achieve these goals. 
 
