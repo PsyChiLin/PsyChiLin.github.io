@@ -169,7 +169,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  software:
     output: true
     permalink: /:collection/:path/
   publications:
