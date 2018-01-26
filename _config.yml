@@ -213,8 +213,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _research
   - scope:
       path: ""
@@ -231,8 +229,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _software
   - scope:
       path: ""
