@@ -211,7 +211,7 @@ defaults:
       path: ""
       type: professional
     values:
-      layout: single
+      layout: default
       author_profile: true
   # _research
   - scope:
