@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /professional/
 author_profile: true
 comments: true
@@ -7,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+### [Professional CV](https://github.com/PsyChiLin/PsyChiLin.github.io/files/CV.pdf)
 
 Education
 ======
