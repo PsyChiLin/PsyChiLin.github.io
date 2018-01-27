@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<a style="line-height: 1.5;" href="http://www.stuartgeiger.com/geiger-cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a>
-<h1 class="western" align="center"><b>R. Stuart Geiger</b></h1>
+
+<h1 class="western" align="center"><b>Chi-Lin Yu</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;">stuart at  stuartgeiger.com | <a href="http://www.stuartgeiger.com/">http://www.stuartgeiger.com</a> | <a href="http://www.twitter.com/staeiou">@staeiou</a> | <a href="http://is.gd/geiger_cites">Google Scholar</a></span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"> <a href="https://github.com/PsyChiLin/PsyChiLin.github.io/blob/master/files/ChiLinYu_CV.pdf">PDF</a> | <a href="https://github.com/PsyChiLin">GITHUB</a> | <a href="psychilinyu@gmail.com">Email</a></span></p>
 
 
 Education
