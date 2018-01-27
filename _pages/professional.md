@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-### [Professional CV](https://github.com/PsyChiLin/PsyChiLin.github.io/files/CV.pdf)
+# [Professional CV](https://github.com/PsyChiLin/PsyChiLin.github.io/blob/master/files/ChiLinYu_CV.pdf)
 
 Education
 ======
