@@ -7,7 +7,8 @@ author_profile: true
 {% include base_path %}
 
 <img src="/images/empathy.jpeg" alt="Drawing" style="width: 500px;float: right;margin: 25px" hspace="10px"/>
-</br>
+
+- Empathy
 Human beings are physically independent but are psychologically intertwined (Zaki and Ochsner, 2016). We spend a lot of time dealing with others’ intentions, experiences, and internal states. The term empathy describes these phenomena. 
 </br>
 Previous studies defined empathy as “the ability and tendency to share and understand others’ internal state” (Zaki and Ochsner, 2012). Consistent with this definition, accumulated empirical evidence showed that empathy is a multifaceted construct composed of three key components, including affective empathy, cognitive empathy, and prosocial motivation (Hoffman, 1984; Decety and Jackson, 2004; Singer, 2006; Uddin et al., 2007; Shamay-Tsoory et al., 2009; Zaki and Ochsner, 2016). Despite ever-growing findings related to the neural underpinnings of empathy in these aforementioned studies, little is known to have a general framework to explain the relationship between key components. 
