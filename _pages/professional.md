@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Psychology, National Cheng Kung University, 2016
-* M.S. in Psychology, National Taiwan University, 2018
+* B.S. in Psychology, National Cheng Kung University, 2012/9 ~ 2016/6
+* M.S. in Psychology, National Taiwan University, 2017/2 ~ 2018/6 (Expected)
 
-Work experience
+Experience
 ======
 - **Researcher and Data Scientist**, Language Neuroscience Laboratory, , Department of Psychology, National Taiwan University. *Mentor: Prof. Tai-Li Chou, PhD*
     - Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying
@@ -66,13 +66,6 @@ Awards
 Chi-Lin Yu, et al; Project Number:104-2815-C-006-149–H)
 - 2014 Tainan True Jesus Church outstanding student scholarship
 - 2014 The second place award of posters in the Experimental Psychology Course
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Skills
 ======
