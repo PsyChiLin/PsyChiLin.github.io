@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title = "Journal Publications"
+title: "Journal Publications"
 author_profile: true
 comments: true
 ---
