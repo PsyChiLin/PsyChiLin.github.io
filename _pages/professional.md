@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 class="western" align="center"><b>Chi-Lin Yu</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"> <a href="https://github.com/PsyChiLin/PsyChiLin.github.io/blob/master/files/ChiLinYu_CV.pdf">PDF</a> | <a href="https://github.com/PsyChiLin">GITHUB</a> | <a href="psychilinyu@gmail.com">Email</a></span></p>
+<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"> <a href="https://psychilin.github.io/">Site</a> | <a href="https://github.com/PsyChiLin/PsyChiLin.github.io/blob/master/files/ChiLinYu_CV.pdf">PDF</a> | <a href="https://github.com/PsyChiLin">Github</a> | <a>psychilinyu@gmail.com</a></span></p>
 
 
 Education
@@ -92,3 +92,19 @@ Skills
     - Oro.Nifti
     - ANTsR
     - fslR
+    
+Selected Extracurricular
+=====
+- 2016 Valedictorian, Department of Psychology, NCKU
+- 2015 Representatives of Students in School, Department of Psychology, NCKU
+- 2015 Chief Counselor, Psychology Summer Camp, NCKU
+- 2015 Volunteer Assistant, The 7th Annual Taiwan Association of Clinical Psychology Meeting
+- 2015 Symposium Student for resting state fMRI, Mind Research and imaging center, NCKU
+- 2015 Symposium Student for Cognitive Neuroscience of Aging, Mind Research and imaging center,
+NCKU
+- 2014 Activity Leader, The Night of Psychology, NCKU
+- 2014 Execute Officer, Psychology Freshman Camp, NCKU
+- 2014 Chief Counselor, Kaohsiung Area Alumni Association, NCKU
+- 2013 Leader, The Week of Psychology, NCKU
+- 2013 Member, Students Association in department of psychology, NCKU 
+- 2013 Program Director, Psychology Summer Camp, NCKU
