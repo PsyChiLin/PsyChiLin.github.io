@@ -13,6 +13,7 @@ I explore the underlying porcessing of empathy from normal population and autism
 The brain organzation for empathy porcessing is revealed; and, an aberrant brain pattern of empathy for individuals with autism is revealed. I also propose a dual route model of empathy to interpret the underlying mechanisms of empathy processing. The dual route model of empathy is mainly composed of an automatic, fast, and specific “lower route” with affective empathy as well as a complex, slow, and iterative “higher route” with cognitive empathy.
 <img src="/images/empathy3.png" alt="Drawing" style="width: 350px;margin: 5px" hspace="10px"/>
 <img src="/images/empathy2.png" alt="Drawing" style="width: 500px;margin: 5px" hspace="10px"/>
+
 ### Social Cognition
 - impression
 - hyperscanning
