@@ -9,8 +9,8 @@ redirect_from:
 
 
 <h1 class="western" align="center"><b>Chi-Lin Yu</b></h1>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span style="font-size: medium;"> <a href="https://psychilin.github.io/">Site</a> | <a href="https://github.com/PsyChiLin/PsyChiLin.github.io/blob/master/files/ChiLinYu_CV.pdf">PDF</a> | <a href="https://github.com/PsyChiLin">Github</a> | <a>psychilinyu@gmail.com</a></span></p>
+<p style="line-height: 1;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
+<p style="line-height: 1;" align="center"><span style="font-size: medium;"> <a href="https://psychilin.github.io/">Site</a> | <a href="https://github.com/PsyChiLin/PsyChiLin.github.io/blob/master/files/ChiLinYu_CV.pdf">PDF</a> | <a href="https://github.com/PsyChiLin">Github</a> | <a>psychilinyu@gmail.com</a></span></p>
 
 
 Education
