@@ -3,7 +3,6 @@ permalink: /publications/
 author_profile: true
 comments: true
 ---
-
 Journal Publications
 =====
 - **Chi-Lin Yu**, Min-Ying Wang, Jon-Fan Hu. (2016) “Valence Processing of First Impressions in the Dorsomedial Prefrontal Cortex: A Near-Infrared Spectroscopy Study”, *NeuroReport*, 27(8), 574-579.
