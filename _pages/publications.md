@@ -1,10 +1,9 @@
 ---
 permalink: /publications/
+title = "Journal Publications"
 author_profile: true
 comments: true
 ---
-Journal Publications
-=====
 - **Chi-Lin Yu**, Min-Ying Wang, Jon-Fan Hu. (2016) “Valence Processing of First Impressions in the Dorsomedial Prefrontal Cortex: A Near-Infrared Spectroscopy Study”, *NeuroReport*, 27(8), 574-579.
 - **Chi-Lin Yu**, Tai-Li Chou, et al. (in preparation) “Aberrant Functional Brain Organization of Youths with Autism: A Theory of Mind Network Perspective”
 - **Chi-Lin Yu**, Hsin-Chin Chen, Zih-Yun Yang, Tai-Li Chou. (under review) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”
