@@ -1,12 +1,9 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Journal Articles"
 author_profile: true
 comments: true
 ---
-
-Journal Articles
-=====
 - **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567.
 - **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, 27(8), 574-579.
 
