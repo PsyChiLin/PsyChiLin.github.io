@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi ! I am Chi-Lin Yu, a Psychologist and Cognitive Neuroscientist in Taiwan. I study how people  think about the minds of other people, how people's internal world inetract with external social world, and how these mechanisms become dysfunction. In particular, empathy, social cogntion, and social interaction are topics under investigation. I use a combination of three research perspectives – behavioral experiments, neuroimaging and methodology - to understand people's mind. 
+Hi ! I am Chi-Lin Yu, a Psychologist and Cognitive Neuroscientist in Taiwan. I study how people think about the minds of other people, how people's internal world interact with external social world, and how these mechanisms become dysfunction. In particular, empathy, social cognition, and social interaction are topics under investigation. I use a combination of three research perspectives – behavioral experiments, neuroimaging and methodology - to understand people's mind. 
 
 I received my B.S in Psychology from National Cheng Kung University University. I am currently a graduate student of master degree in psychology department of National Taiwan University.
 
