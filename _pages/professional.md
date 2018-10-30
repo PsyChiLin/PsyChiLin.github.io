@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Psychology, National Taiwan University, 2017/2 ~ 2018/6 (Expected)
+* M.S. in Psychology, National Taiwan University, 2017/2-2018/6
 * B.S. in Psychology, National Cheng Kung University, 2012/9 ~ 2016/6
 
 Experience
@@ -29,20 +29,25 @@ Experience
     - Establish a model to interpret the mechanism of human empathy.
 
 - Language Acquisition and Cognitive Development Laboratory, Department of Psychology, National Cheng Kung University. *Mentor: Prof. Jon-Fan Hu, PhD*
-    - Pioneer Taiwan’s fNIRS research to explore the neural mechanism of first impression formation.
+    - Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
     - Adopt behavioral experiments in embodied perspective to probe semantic properties of emotion words.
-    - Develop fMRI study to investigate the underlying relationships between ToM and humor processing.
-    - Establish the valid and reliable scale to measure self-report empathy ability
-    - Design developmental experiments to understand the interaction between ToM, empathy and social development.
+    - Develop fMRI studies to investigate the underlying relationships between ToM and humor processing.
+    - Establish valid and reliable scales to measure self-report empathy ability
+    - Design developmental experiments to understand the interaction between Theory of Mind, empathy and social development.
 
 - Cognitive and Affective Neuroscience Laboratory, National Cheng Kung University, Department of Psychology. *Mentor: Prof. Der-Yow Chen, PhD*
     - Develop a multi-fMRI scanners hyper-scanning paradigm to investigate the neural underpinnings of social interaction.
-    - Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
     - Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology perspective.
+    - Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
+
 
 - National Cheng Kung University, Institute of Education (Mentor: Prof. Ching-Fan Sheu)
-    - Design an user-friendly web application for exploratory factor analysis (EFA) by using shiny package in R
-    - Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis
+    - Design an user-friendly web application for exploratory factor analysis (EFA) by using shiny package in R.
+    - Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis.
+    
+- NTHU (National Tsing Hua University), Center for General Education (Mentor: Prof. Shu-Hui Lee)
+    - Develop fMRI studies to explore the neural correlates of Chinese classifiers in typical developing children.
+    - Design behavorial and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semanti cprocessing in patients with alexithymia.
 
 - **Teaching Assistant**
     - 2018 Teaching Assistant, Brain and Language Course (English-Taught), Mentor: Prof. Tai-Li Chou
@@ -54,11 +59,12 @@ Experience
 
 Awards
 ======
-- 2017 Government Fellowship for Studying Abroad
+- 2018 Best paper award for Annual Meeting of Taiwanese Society of Child and Adolescent Psychiatry
+- 2017 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. *(This funding supports the best student in psychology/neuroscience domain. Only one student for each year.)*
 - 2016 NCKU President Wei-Noon Wang Memorial Scholarship
 - 2016 KYMCO Scholarship for outstanding student
 - 2016 Ren-Da Industrial Park outstanding student scholarship
-- 2016 Rank 1st in the class of NCKU psychology department in 2015~2016 academic year
+- 2016 Rank 1st in the class of NCKU psychology department in 2015~2016 academic year 
 - 2015 The title of outstanding student for the academic achievement
 - 2015 Rank 1st in the class of NCKU psychology department in 2014~2015 academic year
 - 2015 Tainan True Jesus Church outstanding student scholarship
@@ -90,6 +96,7 @@ Skills
     
 Selected Extracurricular
 =====
+- 2018 Volunteer Assistant, The 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9)
 - 2016 Valedictorian, Department of Psychology, NCKU
 - 2015 Representatives of Students in School, Department of Psychology, NCKU
 - 2015 Chief Counselor, Psychology Summer Camp, NCKU
