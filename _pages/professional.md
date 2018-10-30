@@ -15,8 +15,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Psychology, National Taiwan University, 2017/2-2018/6
-* B.S. in Psychology, National Cheng Kung University, 2012/9 ~ 2016/6
+* M.S. in Psychology, National Taiwan University, 2017/2 - 2018/6
+* B.S. in Psychology, National Cheng Kung University, 2012/9 - 2016/6
 
 Experience
 ======
