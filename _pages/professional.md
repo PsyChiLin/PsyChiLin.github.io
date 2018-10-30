@@ -41,11 +41,11 @@ Experience
     - Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
 
 
-- National Cheng Kung University, Institute of Education (Mentor: Prof. Ching-Fan Sheu)
+- National Cheng Kung University, Institute of Education. *Mentor: Prof. Ching-Fan Sheu*
     - Design an user-friendly web application for exploratory factor analysis (EFA) by using shiny package in R.
     - Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis.
     
-- NTHU (National Tsing Hua University), Center for General Education (Mentor: Prof. Shu-Hui Lee)
+- NTHU (National Tsing Hua University), Center for General Education. *Mentor: Prof. Shu-Hui Lee*
     - Develop fMRI studies to explore the neural correlates of Chinese classifiers in typical developing children.
     - Design behavorial and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semanti cprocessing in patients with alexithymia.
 

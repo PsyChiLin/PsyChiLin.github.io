@@ -8,3 +8,4 @@ Doing research is what I really love. Coding is a fascinating way to make resear
 
 - [ggerp](https://github.com/PsyChiLin/ggerp): a graphical exploration `R` package for event related potentials data
 - [EFAshiny](https://github.com/PsyChiLin/EFAshiny): an user-friendly `shiny` application for exploratory factor analysis
+- [MTPA](https://github.com/PsyChiLin/MTPAinR): a novel perspective, Multi-Time Points Analysis (MTPA), for fNIRS data analysis
