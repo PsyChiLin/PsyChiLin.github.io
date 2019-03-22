@@ -24,7 +24,6 @@ Journal Articles : In Preparation
 - **Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
 - **Yu, C. L.**, Wang, M. Y., & Hu, J. F. “Early Development of the Relationship between Empathy and Theory of Mind” *(As the co-first author)*
 - Hu, J. F., **Yu, C. L.**, et al. “The Role of Theory of Mind Ability in Verbal Humor Comprehension: A functional magnetic resonance imaging study” *(As the corresponding author)*
-- Hu, J. F., **Yu, C. L.**, et al. “The Development of Chinese version of Empathy Quotient”
 
 Conference Presentations
 =====
