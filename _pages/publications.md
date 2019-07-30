@@ -6,10 +6,10 @@ comments: true
 ---
 - Chen, D. Y., **Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (Accepted). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. This paper has been accepted in *Chinese Journal of Psychology* on 2018/10/26 and will be available soon (*As the co-first author*).
 
-- **Yu, C. L.** & Chou, T. L. (Accepted). A Dual Route Model of Empathy: A Neurobiological Prospective. This paper has been accepted in *Frontiers in Psychology*, *9*(2212), 1-5.
+- **Yu, C. L.** & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
 
-- **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, 3(22), 567.
-- **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, 27(8), 574-579.
+- **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+- **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
 Journal Articles : Under Review/Revision
 =====
@@ -20,7 +20,7 @@ Journal Articles : Under Review/Revision
 Journal Articles : In Preparation
 =====
 
-- **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. “Neural Correlates of Theory of Mind in Typically Developing Youths and Youths with Autism Spectrum Disorder”
+- **Yu, C. L.**, Gau S., Lee, S. H.,& Chou, T. L. “Neural Correlates of Theory of Mind in Typically Developing Youths and Youths with Autism Spectrum Disorder”
 - **Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
 - **Yu, C. L.**, Wang, M. Y., & Hu, J. F. “Early Development of the Relationship between Empathy and Theory of Mind” *(As the co-first author)*
 - Hu, J. F., **Yu, C. L.**, et al. “The Role of Theory of Mind Ability in Verbal Humor Comprehension: A functional magnetic resonance imaging study” *(As the corresponding author)*

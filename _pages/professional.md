@@ -60,8 +60,9 @@ Experience
 
 Awards
 ======
+- 2019 Weinberg Institute for Cognitive Science Graduate Fellowship
+- 2018 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. *(This funding supports the best student in psychology/neuroscience domain. Only one student for each year.)*
 - 2018 Best paper award for Annual Meeting of Taiwanese Society of Child and Adolescent Psychiatry
-- 2017 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. *(This funding supports the best student in psychology/neuroscience domain. Only one student for each year.)*
 - 2016 NCKU President Wei-Noon Wang Memorial Scholarship
 - 2016 KYMCO Scholarship for outstanding student
 - 2016 Ren-Da Industrial Park outstanding student scholarship
