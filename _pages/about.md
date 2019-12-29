@@ -11,4 +11,4 @@ Hi! I am Chi-Lin Yu, a Psychologist, Cognitive Neuroscientist and Methodologist 
 
 I received my B.S. in Psychology from National Cheng Kung University (NCKU) and my M.S. in Psychology from National Taiwan University (NTU). I will start my Ph.D. training in the Developmental Psychology program at the University of Michigan, Ann Arbor (UM) at 2019 Fall.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Doing research appears to light up much of my brain — and do not need an fMRI to tell me.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Doing research appears to light up much of my brain — which does not require an fMRI to know.*
