@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Psychology, University of Michigan Ann Arbor, will start at 2019/9
+* Ph.D. in Psychology, University of Michigan Ann Arbor, 2019/9 - 2024/4
 * M.S. in Psychology, National Taiwan University, 2017/2 - 2018/6
 * B.S. in Psychology, National Cheng Kung University, 2012/9 - 2016/6
 
