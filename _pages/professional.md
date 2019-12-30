@@ -15,12 +15,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Psychology, University of Michigan Ann Arbor, 2019/9 - 2024/4
+* Ph.D. in Psychology, University of Michigan Ann Arbor, 2019/9 - 2024/4 (Expected)
 * M.S. in Psychology, National Taiwan University, 2017/2 - 2018/6
 * B.S. in Psychology, National Cheng Kung University, 2012/9 - 2016/6
 
 Experience
 ======
+- Infant Cognition Project, Department of Psychology, University of Michigan Ann Arbor. *Mentor: Prof. Henry Wellman, PhD*
+  - Explore the relationship between Theory of Mind and language development in deaf children with cochlear implants or hearing aids.
+
+- Language & Literacy Laboratory, Department of Psychology, University of Michigan Ann Arbor. *Mentor: Prof. Ioulia Kovelman, PhD*
+  - Use near functional infrared spectroscopy (fNIRS) to examine the neural development of bilingualism in Chinese-English bilingual children.
+
 - Language Neuroscience Laboratory, Department of Psychology, National Taiwan University. *Mentor: Prof. Tai-Li Chou, PhD*
     - Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of social cognition in typical developing children.
     - Identify aberrant cognitive organizations in autism spectrum disorder (ASD) patients and propose a framework for their atypical social processing.

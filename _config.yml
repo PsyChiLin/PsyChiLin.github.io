@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chi-Lin Yu"
 title_separator          : "-"
 name                     : &name "Chi-Lin Yu"
-description              : &description "Psychologist/Cognitive Neuroscientist"
+description              : &description "Developmental Psychologist"
 url                      : https://PsyChiLin.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/PsyChiLin"
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Chi-Lin Yu"
   avatar           : "ChiLinYu.png"
-  bio              : "A Psychologist, Cognitive Neuroscientist, and Methodologist who uses science to understand people like you and me."
+  bio              : "A Developmental Psychologist, Cognitive Neuroscientist, and Methodologist who uses science to understand people like you and me."
   location         : "Taiwan"
   employer         :
   googlescholar    : 
