@@ -4,8 +4,9 @@ title: "Journal Articles"
 author_profile: true
 comments: true
 ---
+- **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., Lederberg, A. R. (In Press). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*.
 
-- **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (in press). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, will be published online soon.
+- **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*, 1-14.
 
 - Chen, D. Y., **Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196 (*As the co-first author*).
 
