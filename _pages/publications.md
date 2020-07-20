@@ -20,8 +20,7 @@ Journal Articles : In Preparation
 
 - **Yu, C. L.**, Gau S., Lee, S. H.,& Chou, T. L. “Neural Correlates of Theory of Mind in Typically Developing Youths and Youths with Autism Spectrum Disorder”
 - **Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
-- **Yu, C. L.**, Wang, M. Y., & Hu, J. F. “Early Development of the Relationship between Empathy and Theory of Mind” *(As the co-first author)*
-- Hu, J. F., **Yu, C. L.**, et al. “The Role of Theory of Mind Ability in Verbal Humor Comprehension: A functional magnetic resonance imaging study” *(As the corresponding author)*
+
 
 Conference Presentations
 =====
