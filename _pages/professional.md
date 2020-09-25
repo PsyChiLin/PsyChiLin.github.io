@@ -19,33 +19,30 @@ Education
 * M.S. in Psychology, National Taiwan University, 2017/2 - 2018/6
 * B.S. in Psychology, National Cheng Kung University, 2012/9 - 2016/6
 
-Experience
+Research Experience
 ======
-- Infant Cognition Project, Department of Psychology, University of Michigan Ann Arbor. *Mentor: Prof. Henry Wellman, PhD*
+- Young Child Social Cognition Project, Department of Psychology, University of Michigan Ann Arbor. *Mentor: Prof. Henry Wellman, PhD*
   - Explore the relationship between Theory of Mind and language development in deaf children with cochlear implants or hearing aids.
+  - Develop a robust and valid ToM scale for preschoolers and school-age children
+  - Meta-analyze and summarize ToM studies in the literature to provide capture specificity, commonality, and generalizability of ToM development 
+  - Examine the relationship between bilingualism and ToM
 
 - Language & Literacy Laboratory, Department of Psychology, University of Michigan Ann Arbor. *Mentor: Prof. Ioulia Kovelman, PhD*
-  - Use near functional infrared spectroscopy (fNIRS) to examine the neural development of bilingualism in Chinese-English bilingual children.
+  - Use near functional infrared spectroscopy (fNIRS) to examine the neural development of bilingualism in Chinese-English bilingual children
+  - Implement naturalistic listening designs to investigate the underlying mechanism of ToM as well as language processing in typically developing children and children with dyslexia
 
 - Language Neuroscience Laboratory, Department of Psychology, National Taiwan University. *Mentor: Prof. Tai-Li Chou, PhD*
-    - Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of social cognition in typical developing children.
-    - Identify aberrant cognitive organizations in autism spectrum disorder (ASD) patients and propose a framework for their atypical social processing.
-    - Understand the differences in neural correlates of semantic processing between typical developing subjects and schizophrenia patients.
-    - Investigate language comprehension and the corresponding neural activities in bilingual adults.
-    - Design a new analysis method that implement machine learning algorithms to analyze near functional infrared spectroscopy (fNIRS) data.
-    - Establish a model to interpret the mechanism of human empathy.
+  - Develop functional magnetic resonance imaging (fMRI) studies to investigate the underlying mechanism of ToM in typically developing children and children with autism spectrum disorder (ASD)
+  - Design a new analysis method implementing machine learning algorithms to analyze fNIRS data.
+  - Establish a conceptual model to interpret the mechanism of human empathy.
 
 - Language Acquisition and Cognitive Development Laboratory, Department of Psychology, National Cheng Kung University. *Mentor: Prof. Jon-Fan Hu, PhD*
-    - Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
-    - Adopt behavioral experiments in embodied perspective to probe semantic properties of emotion words.
-    - Develop fMRI studies to investigate the underlying relationships between ToM and humor processing.
-    - Establish valid and reliable scales to measure self-report empathy ability
-    - Design developmental experiments to understand the interaction between Theory of Mind, empathy and social development.
+  - Pioneer fNIRS research in Taiwan to explore the neural mechanism of first impression formation.
+  - Develop fMRI studies to investigate the underlying relationships between ToM and humor processing.
 
 - Cognitive and Affective Neuroscience Laboratory, National Cheng Kung University, Department of Psychology. *Mentor: Prof. Der-Yow Chen, PhD*
     - Develop a multi-fMRI scanners hyper-scanning paradigm to investigate the neural underpinnings of social interaction.
     - Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology perspective.
-    - Investigate the relationship between perspective taking and emotion processing using interactive social decision-making tasks.
 
 
 - National Cheng Kung University, Institute of Education. *Mentor: Prof. Ching-Fan Sheu*
@@ -56,8 +53,9 @@ Experience
     - Develop fMRI studies to explore the neural correlates of Chinese classifiers in typical developing children.
     - Design behavorial and neuroimaging experiments to investigate the aberrant neural mechanisms of Theory of Mind and emotion-related semanti cprocessing in patients with alexithymia.
 
-- **Teaching Assistant**
-    - 2018 Teaching Assistant, Brain and Language Course (English-Taught), Mentor: Prof. Tai-Li Chou
+- **Teaching Experience**
+    - 2020 Graduate Student Instructor (GSI), Introduction to Developmental Psychology, Mentor: Dr. Kathleen Jodl
+    - 2018 Teaching Assistant, Brain and Language Course, Mentor: Prof. Tai-Li Chou
     - 2017 Teaching Assistant, General Psychology Course, Mentor: Prof. Tai-Li Chou
     - 2016 Teaching Assistant, Cognitive Neuroscience Course, Mentor: Prof. Shu-Lan Hsieh
     - 2016 Teaching Assistant, Assessment Practicum Developmental Psychology Course, Mentor: Prof. Jon-Fan Hu
@@ -66,19 +64,19 @@ Experience
 
 Awards
 ======
+- 2020 Annual best paper award for Chinese Journal of Psychology in 2019 academic year *(This award is given to one best paper from the papers published in the Chinese Journal of Psychology from 2019.)*
 - 2019 Weinberg Institute for Cognitive Science Graduate Fellowship
 - 2018 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. *(This funding supports the best student in psychology/neuroscience domain. Only one student for each year.)*
 - 2018 Best paper award for Annual Meeting of Taiwanese Society of Child and Adolescent Psychiatry
-- 2016 NCKU President Wei-Noon Wang Memorial Scholarship
-- 2016 KYMCO Scholarship for outstanding student
-- 2016 Ren-Da Industrial Park outstanding student scholarship
-- 2016 Rank 1st in the class of NCKU psychology department in 2015~2016 academic year 
+- 2018 An International Conference Travel Grant from Taiwan Ministry of Science and Technology 
+- 2016 NCKU President Wei-Noon Wang Memorial Scholarship *(This scholarship is awarded to the top 10 best students with outstanding academic records from more than twenty thousand students in the entire university.)*
 - 2015 The title of outstanding student for the academic achievement
-- 2015 Rank 1st in the class of NCKU psychology department in 2014~2015 academic year
-- 2015 Tainan True Jesus Church outstanding student scholarship
-- 2015 Taiwan Ministry of Science and Technology Research Scholarship (Students : Wang, M. Y. , Yu, C. L., et al.; Project Number:104-2815-C-006-149–H)
-- 2014 Tainan True Jesus Church outstanding student scholarship
-- 2014 The second place award of posters in the Experimental Psychology Course
+- 2015 Taiwan Ministry of Science and Technology Research Scholarship
+
+Journal Reviewers
+======
+- Advances in Methods and Practices in Psychological Science
+- Journal of Psychosocial Oncology
 
 Skills
 ======

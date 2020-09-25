@@ -15,6 +15,12 @@ comments: true
 - **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
 - **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
+Journal Articles : Under Review
+=====
+
+- **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (Under Review). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*.
+
+
 Journal Articles : In Preparation
 =====
 
@@ -22,8 +28,10 @@ Journal Articles : In Preparation
 - **Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
 
 
-Conference Presentations
+Selected Conference Presentations
 =====
+- **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020). Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children, poster to be presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL).
+
 - **Yu, C. L.**, Lee, S. H., Chen T., Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 - **Yu, C. L.**, Hwang, T. J., Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9).
 - **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
@@ -32,7 +40,3 @@ Conference Presentations
 - **Yu, C. L.**, Sheu, C. F., et al. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
 - **Yu, C. L.**, Sheu, C. F., et al. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
 - **Yu, C. L.**, et al. (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
-- Chu, C., **Yu, C. L.**, et al. (2015). “An Embodied Cognition Approach to Studying Emotional Words:The Impact of Positive Facial Experiences on Semantic Properties Judgment”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
-- Tsai Y. L.,**Yu, C. L.**, et al. (2015). “The differences of semantic features between Chinese concrete, abstract, and emotional concept”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
-- Chuang Y. Y., **Yu, C. L.**, et al. (2015) “An Embodied Cognition Approach to Studying the Impact of Negative Facial Experiences on Semantic Properties of Emotional Words”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
-- Chen S. C., Hu, J. F., Chuang Y. Y., Chu, C., & **Yu, C. L.** (2015). “Releasing Strength in Imagination Constructs Implicit Association of Simulated Action and Response Index”, presented as a poster at the 8th Annual Conference on Embodied and Situated Language Processing.
