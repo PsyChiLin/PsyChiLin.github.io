@@ -64,9 +64,10 @@ Research Experience
 
 Awards
 ======
+- 2021 Rackham International Student Fellowship and the Chia-Lun Lo Fellowship
 - 2020 Annual best paper award for Chinese Journal of Psychology in 2019 academic year *(This award is given to one best paper from the papers published in the Chinese Journal of Psychology from 2019.)*
 - 2019 Weinberg Institute for Cognitive Science Graduate Fellowship
-- 2018 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. *(This funding supports the best student in psychology/neuroscience domain. Only one student for each year.)*
+- 2018 Taiwan Government PhD Fellowship for Studying Abroad: 4 years full funding for studying PhD in U.S. *(This scholarship is awarded to one student per year who has the best academic achievement in psychology/neuroscience)*
 - 2018 Best paper award for Annual Meeting of Taiwanese Society of Child and Adolescent Psychiatry
 - 2018 An International Conference Travel Grant from Taiwan Ministry of Science and Technology 
 - 2016 NCKU President Wei-Noon Wang Memorial Scholarship *(This scholarship is awarded to the top 10 best students with outstanding academic records from more than twenty thousand students in the entire university.)*

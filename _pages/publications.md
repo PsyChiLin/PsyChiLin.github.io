@@ -6,7 +6,7 @@ comments: true
 ---
 - **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., Lederberg, A. R. (In Press). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*.
 
-- **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*, 1-14.
+- **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(4), 1700–1713.
 
 - Chen, D. Y., **Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196 (*As the co-first author*).
 
@@ -17,6 +17,8 @@ comments: true
 
 Journal Articles : Under Review
 =====
+
+- **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Review). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms. *Journal of Child Psychology and Psychiatry*.
 
 - **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (Under Review). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*.
 
@@ -30,7 +32,7 @@ Journal Articles : In Preparation
 
 Selected Conference Presentations
 =====
-- **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020). Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children, poster to be presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL).
+- **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020). Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children, presented as a virtual poster at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL).
 
 - **Yu, C. L.**, Lee, S. H., Chen T., Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
 - **Yu, C. L.**, Hwang, T. J., Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9).
