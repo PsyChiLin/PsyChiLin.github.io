@@ -4,7 +4,7 @@ title: "Journal Articles"
 author_profile: true
 comments: true
 ---
-- **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., Lederberg, A. R. (In Press). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*.
+- **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
 
 - **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(4), 1700–1713.
 
@@ -18,27 +18,35 @@ comments: true
 Journal Articles : Under Review
 =====
 
-- **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Review). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms. *Journal of Child Psychology and Psychiatry*.
+- **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Review). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.
 
-- **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (Under Review). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*.
+- **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (Under Review). How Bilingualism Informs us about Theory of Mind Development.
 
 
 Journal Articles : In Preparation
 =====
 
-- **Yu, C. L.**, Gau S., Lee, S. H.,& Chou, T. L. “Neural Correlates of Theory of Mind in Typically Developing Youths and Youths with Autism Spectrum Disorder”
-- **Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. “ggerp: Visualization of Event-Related Brain Potentials with ggplot2”
+- **Yu, C. L.**, Gau S., Lee, S. H.,& Chou, T. L. Neural Correlates of Theory of Mind in Typically Developing Youths and Youths with Autism Spectrum Disorder.
+
+- **Yu, C. L.**, Causeur D., Lee Y. s., & Sheu, C. F. ggerp: Visualization of Event-Related Brain Potentials with ggplot2.
 
 
 Selected Conference Presentations
 =====
-- **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020). Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children, presented as a virtual poster at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL).
+- **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020, October). *Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children.* Poster presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL), Virtual.
 
-- **Yu, C. L.**, Lee, S. H., Chen T., Liao, C. C. (2019) "The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study", presented as a poster in the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM).
-- **Yu, C. L.**, Hwang, T. J., Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9).
-- **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L.(2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM).
-- **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience. 
-- **Yu, C. L.**, Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 48th annual meeting of the Society for Computers in Psychology (SCiP).
-- **Yu, C. L.**, Sheu, C. F., et al. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting.
-- **Yu, C. L.**, Sheu, C. F., et al. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP).
-- **Yu, C. L.**, et al. (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting.
+- **Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019, June) *The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study*, Poster presented at the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM), Rome.
+
+- **Yu, C. L.**, Hwang, T. J., & Chou, T. L. (2018) "Neural Changes Associated with Semantic Processing in Aged Schizophrenia", presented as a poster in the 17th International Conference on the Processing of East Asian Languages and the 9th Conference on Language, Discourse, and Cognition (ICPEAL 17 – CLDC 9), Taipei.
+
+- **Yu, C. L.**, Lee, S. H., Gau S., & Chou, T. L. (2018) "Aberrant Neural Organization of Theory of Mind in Youths with Autism", presented as a poster in the 2018 Annual Meeting of Organization for Human Brain Mapping (OHBM), Singapore.
+
+- **Yu, C. L.**, Chen, H. C., Yang, Z. Y., & Chou, T. L. (2018) “Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy”, presented as a poster in the 3rd NTU-Kyoto University International Symposium for Cognitive Neuroscience, Taipei.
+
+- **Yu, C. L.**, & Sheu, C. F. (2017). “EFAshiny: A shiny application for exploratory factor analysis”, presented as a poster in 47th annual meeting of the Society for Computers in Psychology (SCiP).
+
+- **Yu, C. L.**, Causeur, D., Lee, Y. s., & Sheu, C. F. (2017). “ggerp: An R Package for Graphical Explorations of Event-Related Potentials ”, presented as oral presentation in a symposium of 55th Annual Taiwan Psychology Association Meeting, Taipei.
+
+- **Yu, C. L.**, Causeur, D., Shen, I. H., & Sheu, C. F. (2016). “Using R to explore ERP data”, presented as oral presentation in a symposium of 46th annual meeting of the Society for Computers in Psychology (SCiP), Boston.
+
+- **Yu, C. L.**, Wang, M. Y., Chen, P. W., Yap, J. Y., Chang, J. S., Hsiao, Y. R., & Hu, J. F (2015). “Using false belief task to explore the effect of empathy situation on theory of mind function”, presented as a poster at the 37th Annual Cognitive Science Society Meeting, Pasadena.
