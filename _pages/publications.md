@@ -4,6 +4,9 @@ title: "Journal Articles"
 author_profile: true
 comments: true
 ---
+
+- **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (Accepted). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*.
+
 - **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
 
 - **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(4), 1700–1713.
@@ -19,9 +22,6 @@ Journal Articles : Under Review
 =====
 
 - **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Review). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.
-
-- **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (Under Review). How Bilingualism Informs us about Theory of Mind Development.
-
 
 Journal Articles : In Preparation
 =====
