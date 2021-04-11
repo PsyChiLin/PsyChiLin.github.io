@@ -33,7 +33,7 @@ Journal Articles : In Preparation
 
 Selected Conference Presentations
 =====
-- **Yu, C. L.**, Heng, J., Wellman, H. (2021, April). *A Meta-Analysis of Progressions in Theory-of-Mind Understandings: Theory of Mind Scale Findings Across Different Contexts - An Initial Exploration.* Symposium presentation at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
+- **Yu, C. L.**, Heng, J., Wellman, H. M. (2021, April). *A Meta-Analysis of Progressions in Theory-of-Mind Understandings: Theory of Mind Scale Findings Across Different Contexts - An Initial Exploration.* Symposium presentation at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
 
 - **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (2021, April). *Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.* Poster presented at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
 
