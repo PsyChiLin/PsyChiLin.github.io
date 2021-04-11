@@ -33,6 +33,11 @@ Journal Articles : In Preparation
 
 Selected Conference Presentations
 =====
+- **Yu, C. L.**, Heng, J., Wellman, H. (2021, April). *A Meta-Analysis of Progressions in Theory-of-Mind Understandings: Theory of Mind Scale Findings Across Different Contexts - An Initial Exploration.* Symposium presentation at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
+
+- **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (2021, April). *Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.* Poster presented at the 2021 Biennial Meeting of the Society for Research in Child Development (SRCD), Virtual.
+
+
 - **Yu, C. L.**, Sun, X., Zhang, K. H., Kim, J., Marks, R., Nickerson, N., … Kovelman, I. (2020, October). *Cross-Language Neural Interconnection of Phonological Awareness and Morphological Awareness in Simultaneous Chinese-English Bilingual Children.* Poster presented at the 12th Annual Meeting of Society for the Neurobiology of Language (SNL), Virtual.
 
 - **Yu, C. L.**, Lee, S. H., Chen T., & Liao, C. C. (2019, June). *The Influence of Family Reading History on Chinese Classifier Processing: An fMRI Study.* Poster presented at the 2019 Annual Meeting of Organization for Human Brain Mapping (OHBM), Rome.
