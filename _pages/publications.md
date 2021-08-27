@@ -5,6 +5,8 @@ author_profile: true
 comments: true
 ---
 
+- **Yu, C. L.** & Wellman, H. M. (Under Review). Young Children Treat Puppets (and Dolls and Pictures) Like Real Persons.
+
 - **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (2021). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*, *15*(3), 154-159.
 
 - **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
