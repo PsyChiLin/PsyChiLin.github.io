@@ -4,18 +4,34 @@ title: "Journal Articles"
 author_profile: true
 comments: true
 ---
+1. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Revision). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.
+
+1. **Yu, C. L.** & Wellman, H. M. (In Press). All Humans Have a "Theory of Mind." *Journal of Autism and Developmental Disorders*.
+
+1. **Yu, C. L.** & Wellman, H. M. (In Press). Young Children Treat Puppets and Dolls Like Real Persons in Theory of Mind Research: A meta-analysis of false-belief understanding across ages and countries. *Cognitive Development*.
+
+1. Wellman, H. M., & **Yu, C. L.** (In Press). Theory of puppets or theory of mind? Misunderstanding how children construe puppets in psychological research: A commentary on Packer and Moreno-Dulcey (2022). *Cognitive Development*.
+
+1. Sun, X., Marks, R., Zhang, K., **Yu, C. L.**, Eggleston, R., Nickerson, N., Chou, T.L., Hu, X.S., Tardif, T., Satterfield, T., & Kovelman, I. (In Press) Brain Bases of English Morphological Processing: A Comparison between Chinese-English, Spanish-English Bilingual, and English Monolingual Children. *Developmental Science*.
+
+1. Sun, X., Zhang, Z., Marks, R., Karas, Z., Eggleston, E., Nickerson, N., **Yu, C. L.**, Wagley, N., Hu X., Caruso, V., Chou, T-L., Satterfield, T., Tardif, T., Kovelman, I. (2022). Morphological and phonological processing in English monolingual, Chinese-English bilingual, and Spanish-English bilingual children: An fNIRS neuroimaging dataset. *Data in Brief*, *42*, 108048.
+
+- Sun, X., Zhang K., Marks, R., Nickerson, N., Eggleston, R., **Yu, C. L.**, Chou., T., Tardif, T., & Kovelman, I. (2022). What’s in a word? Cross-linguistic influences on Spanish-English and Chinese-English bilingual children’s word reading development. *Child Development*, *93*(1), 84-100.
 
 - **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (2021). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*, *15*(3), 154-159.
 
-- **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
+- **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., & Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
+
+- Marks, R. A., Eggleston, R. L., Sun, X.,**Yu, C. L.**., Zhang, K., Nickerson, N., Hu, X.-S., & Kovelman, I. (2021). The neurocognitive basis of morphological processing in typical and impaired readers. *Annals of Dyslexia*, 1-23.
 
 - **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(4), 1700–1713.
 
-- Chen, D. Y., **Yu, C. L.**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196 (*As the co-first author*).
+- Chen, D. Y., **Yu, C. L. (co-first)**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196.
 
-- **Yu, C. L.** & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
+- **Yu, C. L.**, & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
 
 - **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+
 - **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
 Journal Articles : Under Review
