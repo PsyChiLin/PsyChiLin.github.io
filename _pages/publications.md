@@ -34,7 +34,6 @@ comments: true
 
 1. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
-
 Selected Conference Presentations
 =====
 - **Yu, C. L.** & Wellman, H. M. (2022, April). *Young Children Treat Puppets (and Dolls and Pictures) Like Real Persons.* Poster presented at the 2022 Biennial Meeting of the Cognitive Development Society (CDS), Madison.

@@ -44,7 +44,6 @@ Research Experience
     - Develop a multi-fMRI scanners hyper-scanning paradigm to investigate the neural underpinnings of social interaction.
     - Probe the underlying metalizing processes and cognitive abilities of playing Chinese Go from the experimental psychology perspective.
 
-
 - National Cheng Kung University, Institute of Education. *Mentor: Prof. Ching-Fan Sheu*
     - Design an user-friendly web application for exploratory factor analysis (EFA) by using shiny package in R.
     - Develop exploratory graphical tools for Event Related Potentials (ERPs) and fNIRS data analysis.
