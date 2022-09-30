@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Psychology, University of Michigan Ann Arbor, 2019/9 - 2024/4 (Expected)
+* Ph.D. in Psychology, University of Michigan Ann Arbor, 2019/9 - 2024/8 (Expected)
 * M.S. in Psychology, National Taiwan University, 2017/2 - 2018/6
 * B.S. in Psychology, National Cheng Kung University, 2012/9 - 2016/6
 
@@ -64,6 +64,9 @@ Research Experience
 
 Awards
 ======
+- 2022 The Workshop Funds for the Summer Program in Quantitative Methods of Social Research
+- 2021 The Diversity Scholarship for the Summer Program in Quantitative Methods of Social Research
+- 2021 The Lorraine Nadelman Early Graduate Student Research Award 
 - 2021 Rackham International Student Fellowship and the Chia-Lun Lo Fellowship
 - 2020 Annual best paper award for Chinese Journal of Psychology in 2019 academic year *(This award is given to one best paper from the papers published in the Chinese Journal of Psychology from 2019.)*
 - 2019 Weinberg Institute for Cognitive Science Graduate Fellowship
@@ -78,6 +81,7 @@ Journal Reviewers
 ======
 - Advances in Methods and Practices in Psychological Science
 - Journal of Psychosocial Oncology
+- Journal of Experimental Child Psychology
 
 Skills
 ======
@@ -100,6 +104,10 @@ Skills
     - Oro.Nifti
     - ANTsR
     - fslR
+    - Netlogo
+    - Mplus
+    - HLM
+    - python
     
 Selected Extracurricular
 =====

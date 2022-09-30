@@ -16,23 +16,23 @@ comments: true
 
 1. Sun, X., Zhang, Z., Marks, R., Karas, Z., Eggleston, E., Nickerson, N., **Yu, C. L.**, Wagley, N., Hu X., Caruso, V., Chou, T-L., Satterfield, T., Tardif, T., Kovelman, I. (2022). Morphological and phonological processing in English monolingual, Chinese-English bilingual, and Spanish-English bilingual children: An fNIRS neuroimaging dataset. *Data in Brief*, *42*, 108048.
 
-- Sun, X., Zhang K., Marks, R., Nickerson, N., Eggleston, R., **Yu, C. L.**, Chou., T., Tardif, T., & Kovelman, I. (2022). What’s in a word? Cross-linguistic influences on Spanish-English and Chinese-English bilingual children’s word reading development. *Child Development*, *93*(1), 84-100.
+1. Sun, X., Zhang K., Marks, R., Nickerson, N., Eggleston, R., **Yu, C. L.**, Chou., T., Tardif, T., & Kovelman, I. (2022). What’s in a word? Cross-linguistic influences on Spanish-English and Chinese-English bilingual children’s word reading development. *Child Development*, *93*(1), 84-100.
 
-- **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (2021). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*, *15*(3), 154-159.
+1. **Yu, C. L.**, Kovelman, I., & Wellman, H. M. (2021). How Bilingualism Informs us about Theory of Mind Development. *Child Development Perspectives*, *15*(3), 154-159.
 
-- **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., & Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
+1. **Yu, C. L.**, Stanzione, C. M., Wellman, H. M., & Lederberg, A. R. (2021). Theory of Mind Development in Young Deaf Children with Early Hearing Provisions. *Psychological Science*, *32*(1), 109-119.
 
-- Marks, R. A., Eggleston, R. L., Sun, X.,**Yu, C. L.**., Zhang, K., Nickerson, N., Hu, X.-S., & Kovelman, I. (2021). The neurocognitive basis of morphological processing in typical and impaired readers. *Annals of Dyslexia*, 1-23.
+1. Marks, R. A., Eggleston, R. L., Sun, X.,**Yu, C. L.**., Zhang, K., Nickerson, N., Hu, X.-S., & Kovelman, I. (2021). The neurocognitive basis of morphological processing in typical and impaired readers. *Annals of Dyslexia*, 1-23.
 
-- **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(4), 1700–1713.
+1. **Yu, C. L.**, Chen, C. C., Yang, Z. Y., & Chou, T. L. (2020). Multi-Time Points Analysis: A Time Course Analysis with Functional Near-Infrared Spectroscopy. *Behavior Research Methods*, *52*(4), 1700–1713.
 
-- Chen, D. Y., **Yu, C. L. (co-first)**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196.
+1. Chen, D. Y., **Yu, C. L. (co-first)**, Su, C. W., Liao, K. H., & Hsiao, H. Y. (2019). Cognitive Abilities in the Game of Go during the Opening, Middle, and Endgame Phases: When Experimental Psychology Meets Artificial Intelligence. *Chinese Journal of Psychology*, *61*(3), 173-196.
 
-- **Yu, C. L.**, & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
+1. **Yu, C. L.**, & Chou, T. L. (2018). A Dual Route Model of Empathy: A Neurobiological Prospective. *Frontiers in Psychology*, *9*(2212), 1-5.
 
-- **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
+1. **Yu, C. L.**, & Sheu, C. F. (2018). EFAshiny: An User-Friendly Shiny Application for Exploratory Factor Analysis. *Journal of Open Source Software*, *3*(22), 567.
 
-- **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
+1. **Yu, C. L.**, Wang, M. Y., & Hu, J. F. (2016). Valence processing of first impressions in the dorsomedial prefrontal cortex: a near-infrared spectroscopy study. *NeuroReport*, *27*(8), 574-579.
 
 
 Selected Conference Presentations
