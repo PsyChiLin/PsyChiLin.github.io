@@ -22,6 +22,8 @@ Journal Articles
 
 1. Sun, X., Marks, R., Eggleston, R, Zhang, K., Lau, C., **Yu, C. L.**, Nickerson, N., & Kovelman, I. (In Press). Impacts of the COVID-19 Disruption on the Language and Literacy Development of Monolingual and Heritage Bilingual Children in the United States. *Reading and Writing*.
 
+1. Marks, R., Labotka, D., Sun, X., Nickerson, N., Zhang, K., Eggleston, R., **Yu, C. L.**, Uchikoshi Y., Hoeft F., & Kovelman, I. (In Press). Morphological Awareness and its Role in Early Word Reading in English Monolinguals, Spanish–English, and Chinese–English Simultaneous Bilinguals. *Bilingualism: Language and Cognition*.
+
 1. Sun, X., Marks, R., Zhang, K., **Yu, C. L.**, Eggleston, R., Nickerson, N., Chou, T.L., Hu, X.S., Tardif, T., Satterfield, T., & Kovelman, I. (In Press) Brain Bases of English Morphological Processing: A Comparison between Chinese-English, Spanish-English Bilingual, and English Monolingual Children. *Developmental Science*.
 
 1. **Yu, C. L.** & Wellman, H. M. (2022). Young Children Treat Puppets and Dolls Like Real Persons in Theory of Mind Research: A meta-analysis of false-belief understanding across ages and countries. *Cognitive Development*, *63*, 101197.
