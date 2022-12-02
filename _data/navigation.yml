@@ -2,8 +2,8 @@
 main:
   - title: "Home"
   
-  - title: "CV"
-    url: https://github.com/PsyChiLin/CV/blob/master/Chi_Lin%20Yu_CV_20221201.pdf
+  - title: "Professional"
+    url: /professional/
     
   #- title: "Research"
   #  url: /research/
