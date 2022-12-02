@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 class="western" align="center"><b>Chi-Lin Yu</b></h1>
 <p style="line-height: 1;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1;" align="center"><span style="font-size: medium;"> <a href="https://scholar.google.com.tw/citations?user=56kSGMMAAAAJ&hl=en&oi=sra">Google Scholar</a> | <a href="https://github.com/PsyChiLin/CV/blob/master/Chi_Lin%20Yu_CV_20221201.pdf">PDF</a> | <a href="https://github.com/PsyChiLin">Github</a> | <a>psychilinyu@gmail.com</a></span></p>
+<p style="line-height: 1;" align="center"><span style="font-size: medium;"> <a href="https://scholar.google.com.tw/citations?user=56kSGMMAAAAJ&hl=en&oi=sra">Google Scholar</a> | <a href="https://github.com/PsyChiLin">Github</a> | <a>chilinyu@umich.edu</a></span></p>
 
 
 Education
