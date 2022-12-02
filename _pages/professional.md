@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 class="western" align="center"><b>Chi-Lin Yu</b></h1>
 <p style="line-height: 1;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1;" align="center"><span style="font-size: medium;"> <a href="https://psychilin.github.io/">Site</a> | <a href="https://github.com/PsyChiLin/CV/blob/master/Chi_Lin%20Yu_CV_20221201.pdf">PDF</a> | <a href="https://github.com/PsyChiLin">Github</a> | <a>psychilinyu@gmail.com</a></span></p>
+<p style="line-height: 1;" align="center"><span style="font-size: medium;"> <a href="https://scholar.google.com.tw/citations?user=56kSGMMAAAAJ&hl=en&oi=sra">Google Scholar</a> | <a href="https://github.com/PsyChiLin/CV/blob/master/Chi_Lin%20Yu_CV_20221201.pdf">PDF</a> | <a href="https://github.com/PsyChiLin">Github</a> | <a>psychilinyu@gmail.com</a></span></p>
 
 
 Education
@@ -28,15 +28,15 @@ I focus on social cognition in children and adults via behavioral experiments, n
 
 Teaching Experience
 ======
-    - 2022 Primary Instructor, Statistics and Data analysis
-    - 2021 Graduate Student Instructor, Psychometric Theory
-    - 2020 Graduate Student Instructor, Introduction to Developmental Psychology
-    - 2019 Teaching Assistant, General Psychology
-    - 2018 Teaching Assistant, Brain and Language
-    - 2017 Teaching Assistant, General Psychology
-    - 2016 Teaching Assistant, Cognitive Neuroscience
-    - 2016 Teaching Assistant, Assessment Practicum Developmental Psychology
-    - 2016 Teaching Assistant, Seminar on Emotion and Memory
+- 2022 Primary Instructor, Statistics and Data analysis
+- 2021 Graduate Student Instructor, Psychometric Theory
+- 2020 Graduate Student Instructor, Introduction to Developmental Psychology
+- 2019 Teaching Assistant, General Psychology
+- 2018 Teaching Assistant, Brain and Language
+- 2017 Teaching Assistant, General Psychology
+- 2016 Teaching Assistant, Cognitive Neuroscience
+- 2016 Teaching Assistant, Assessment Practicum Developmental Psychology
+- 2016 Teaching Assistant, Seminar on Emotion and Memory
 
 Awards
 ======

@@ -1,18 +1,30 @@
 ---
 permalink: /publications/
-title: "Journal Articles"
+title: "Work In Progress"
 author_profile: true
 comments: true
 ---
 1. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Revision). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.
 
-1. **Yu, C. L.** & Wellman, H. M. (In Press). All Humans Have a "Theory of Mind." *Journal of Autism and Developmental Disorders*.
+1. **Yu, C. L.**, & Wellman, H. M. (In Submission). Where Do Differences in Theory of Mind Development Come from? An Agent-Based Model of Social Interaction and Theory-of-Mind.
 
-1. **Yu, C. L.** & Wellman, H. M. (In Press). Young Children Treat Puppets and Dolls Like Real Persons in Theory of Mind Research: A meta-analysis of false-belief understanding across ages and countries. *Cognitive Development*.
+1. **Yu, C. L.**, Eggleston, R., Zhang, K., Nickerson, N., Sun, X., Marks, R., Hu, X.S., Brennan, J.R., Wellman, H. M., & Kovelman, I. (In Submission) Neural Processing of Children’s Theory of Mind in a Naturalistic Story-Listening Paradigm.
+  
+
+Journal Articles
+=====
+
+1. **Yu, C. L.** & Wellman, H. M. (In Press). All Humans Have a "Theory of Mind." *Journal of Autism and Developmental Disorders*.
 
 1. Wellman, H. M., & **Yu, C. L.** (In Press). Theory of puppets or theory of mind? Misunderstanding how children construe puppets in psychological research: A commentary on Packer and Moreno-Dulcey (2022). *Cognitive Development*.
 
+1. Sun, X., Marks, R., Eggleston, R., Zhang K., **Yu, C. L.**, Nickerson, N., Caruso, V., Chou., T., Hu., X. S., Tardif, T., Booth, J.R., Beltz, A.M., & Kovelman, I. (In Press). Bilingual Proficiency Enhances Neural Network Density: Sources of Heterogeneity in Children’s Functional Connectivity during English Word Processing. *Neurobiology of Language*.
+
+1. Sun, X., Marks, R., Eggleston, R, Zhang, K., Lau, C., **Yu, C. L.**, Nickerson, N., & Kovelman, I. (In Press). Impacts of the COVID-19 Disruption on the Language and Literacy Development of Monolingual and Heritage Bilingual Children in the United States. *Reading and Writing*.
+
 1. Sun, X., Marks, R., Zhang, K., **Yu, C. L.**, Eggleston, R., Nickerson, N., Chou, T.L., Hu, X.S., Tardif, T., Satterfield, T., & Kovelman, I. (In Press) Brain Bases of English Morphological Processing: A Comparison between Chinese-English, Spanish-English Bilingual, and English Monolingual Children. *Developmental Science*.
+
+1. **Yu, C. L.** & Wellman, H. M. (2022). Young Children Treat Puppets and Dolls Like Real Persons in Theory of Mind Research: A meta-analysis of false-belief understanding across ages and countries. *Cognitive Development*, *63*, 101197.
 
 1. Sun, X., Zhang, Z., Marks, R., Karas, Z., Eggleston, E., Nickerson, N., **Yu, C. L.**, Wagley, N., Hu X., Caruso, V., Chou, T-L., Satterfield, T., Tardif, T., Kovelman, I. (2022). Morphological and phonological processing in English monolingual, Chinese-English bilingual, and Spanish-English bilingual children: An fNIRS neuroimaging dataset. *Data in Brief*, *42*, 108048.
 
