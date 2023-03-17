@@ -24,7 +24,7 @@ Peer-Reviewed Journal Articles
 
 1. Sun, X., Marks, R., Zhang, K., **Yu, C. L.**, Eggleston, R., Nickerson, N., Chou, T.L., Hu, X.S., Tardif, T., Satterfield, T., & Kovelman, I. (2023) Brain Bases of English Morphological Processing: A Comparison between Chinese-English, Spanish-English Bilingual, and English Monolingual Children. *Developmental Science*, *26*(1), e13251. [https://doi.org/10.1111/desc.13251](https://doi.org/10.1111/desc.13251)
 
-1. **Yu, C. L.** & Wellman, H. M. (2022). Young Children Treat Puppets and Dolls Like Real Persons in Theory of Mind Research: A meta-analysis of false-belief understanding across ages and countries. *Cognitive Development*, *63*, 101197. [https://doi.org/10.1016/ j.cogdev.2022.101197](https://doi.org/10.1016/ j.cogdev.2022.101197)
+1. **Yu, C. L.** & Wellman, H. M. (2022). Young Children Treat Puppets and Dolls Like Real Persons in Theory of Mind Research: A meta-analysis of false-belief understanding across ages and countries. *Cognitive Development*, *63*, 101197. [https://doi.org/10.1016/j.cogdev.2022.101197](https://doi.org/10.1016/j.cogdev.2022.101197)
 
 
 1. Wellman, H. M., & **Yu, C. L.** (In Press). Theory of puppets or theory of mind? Misunderstanding how children construe puppets in psychological research: A commentary on Packer and Moreno-Dulcey (2022). *Cognitive Development*, *63*, 101218. [https://doi.org/10.1016/j.cogdev.2022.101218](https://doi.org/10.1016/j.cogdev.2022.101218)
