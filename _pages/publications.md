@@ -1,17 +1,17 @@
 ---
 permalink: /publications/
-title: "Work In Progress"
+title: "Working Papers (available upon request)"
 author_profile: true
 comments: true
 ---
 1. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson S. L. (Under Revision). Theory of Mind and Executive Function Underlie Childhood Psychotic Symptoms.
 
-1. **Yu, C. L.**, & Wellman, H. M. (In Submission). Where Do Differences in Theory of Mind Development Come from? An Agent-Based Model of Social Interaction and Theory-of-Mind.
+1. **Yu, C. L.**, & Wellman, H. M. (Under Revision). Where Do Differences in Theory of Mind Development Come from? An Agent-Based Model of Social Interaction and Theory-of-Mind.
 
-1. **Yu, C. L.**, Eggleston, R., Zhang, K., Nickerson, N., Sun, X., Marks, R., Hu, X.S., Brennan, J.R., Wellman, H. M., & Kovelman, I. (In Submission) Neural Processing of Children’s Theory of Mind in a Naturalistic Story-Listening Paradigm.
+1. **Yu, C. L.**, Eggleston, R., Zhang, K., Nickerson, N., Sun, X., Marks, R., Hu, X.S., Brennan, J.R., Wellman, H. M., & Kovelman, I. (Under Revision) Neural Processing of Children’s Theory of Mind in a Naturalistic Story-Listening Paradigm.
   
 
-Journal Articles
+Peer-Reviewed Journal Articles
 =====
 
 1. **Yu, C. L.** & Wellman, H. M. (In Press). All Humans Have a "Theory of Mind." *Journal of Autism and Developmental Disorders*.
