@@ -14,7 +14,7 @@ comments: true
 Peer-Reviewed Journal Articles
 =====
 
-1. **Yu, C. L.** & Wellman, H. M. (In Press). All Humans Have a "Theory of Mind." *Journal of Autism and Developmental Disorders*. https://doi.org/10.1007/s10803-022-05584-1
+1. **Yu, C. L.** & Wellman, H. M. (In Press). All Humans Have a "Theory of Mind." *Journal of Autism and Developmental Disorders*. [https://doi.org/10.1007/s10803-022-05584-1](https://doi.org/10.1007/s10803-022-05584-1)
 
 1. Sun, X., Marks, R., Eggleston, R., Zhang K., **Yu, C. L.**, Nickerson, N., Caruso, V., Chou., T., Hu., X. S., Tardif, T., Booth, J.R., Beltz, A.M., & Kovelman, I. (In Press). Bilingual Proficiency Enhances Neural Network Density: Sources of Heterogeneity in Children’s Functional Connectivity during English Word Processing. *Neurobiology of Language*. https://doi.org/10.1162/nol_a_00092
 
