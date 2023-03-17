@@ -2,8 +2,8 @@
 main:
   - title: "Home"
   
-  - title: "Professional"
-    url: /professional/
+  #- title: "Professional"
+  #  url: /professional/
     
   #- title: "Research"
   #  url: /research/

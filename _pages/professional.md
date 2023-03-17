@@ -6,8 +6,6 @@ comments: true
 redirect_from:
   - /resume
 ---
-
-
 <h1 class="western" align="center"><b>Chi-Lin Yu</b></h1>
 
 Education
