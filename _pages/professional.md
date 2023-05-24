@@ -35,6 +35,7 @@ Skills
 - Computer programming
     - R
     - MATLAB
+    - python
     - SPM
     - E-PRIME
     - HOMER
@@ -44,7 +45,7 @@ Skills
     - Netlogo
     - Mplus
     - HLM
-    - python
+
     
 Selected Extracurricular
 =====
