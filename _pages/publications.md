@@ -10,22 +10,23 @@ comments: true
 
 1. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson, S. L. (Under Revision). Theory of mind and executive function underlie childhood psychotic symptoms.
 
-1. Hong, S., **Yu, C. L.**, Rousson, A., Bender, A., Fedina, L., Herrenkohl, T. (Under Revision). Exploring the impact of adversity history on internalizing symptoms in adulthood: Analysis of types, repetition, variety, and timing of past adversity.
 
-1. Eggleston, R., Marks, R., Sun, X., **Yu, C. L.**, Zhang, K., Nickerson, N., Caruso, V., Hu, X. S., & Kovelman, I. (Under Revision). Brain bases of morphological awareness differ between typical readers and children with dyslexia.
+1. Eggleston, R., Marks, R., Sun, X., **Yu, C. L.**, Zhang, K., Nickerson, N., Caruso, V., Hu, X. S., & Kovelman, I. (Under Review). Brain bases of morphological awareness differ between typical readers and children with dyslexia.
 
-1. Zhang, K., Sun, X., **Yu, C. L.**, Eggleston, R., Marks, R., Nickerson, N., Caruso, V., Hu, X. S., Tardif, T., Chou., T. L., Booth, J. R. & Kovelman, I. (Under Review). Phono- logical and morphological literacy skills in English and Chinese: A cross-linguistic neu- roimaging comparison of Chinese-English bilingual and monolingual English children.
 
 1. Nickerson, N., Sun, X., Caruso, V., Zhang, K., **Yu, C. L.**, Eggleston, R., Chaku, N., Hu, X. S., Satterfield, T. & Kovelman, I. (Under Review). What’s in the sound? Common and language-specific patterns in brain activation and functional connectivity for phonological awareness in Spanish-English bilinguals.
 
 Peer-Reviewed Journal Articles
 =====
+1. Hong, S., **Yu, C. L.**, Rousson, A., Bender, A., Fedina, L., Herrenkohl, T. (In Press). Exploring the impact of adversity history on internalizing symptoms in adulthood: Analysis of types, repetition, variety, and timing of past adversity. Journal of Interpersonal Violence.
 
-1. **Yu, C. L.** & Wellman, H. M. (In Press). All humans have a "theory of mind." *Journal of Autism and Developmental Disorders*. [https://doi.org/10.1007/s10803-022-05584-1](https://doi.org/10.1007/s10803-022-05584-1)
+1. Zhang, K., Sun, X., **Yu, C. L.**, Eggleston, R., Marks, R., Nickerson, N., Caruso, V., Hu, X. S., Tardif, T., Chou., T. L., Booth, J. R. & Kovelman, I. (2023). Phono- logical and morphological literacy skills in English and Chinese: A cross-linguistic neu- roimaging comparison of Chinese-English bilingual and monolingual English children. Human Brain Mapping, 44(13), 4812–4829. [https://doi.org/10.1002/hbm.26419](https://doi.org/10.1002/hbm.26419)
 
-1. Sun, X., Marks, R., Eggleston, R., Zhang K., **Yu, C. L.**, Nickerson, N., Caruso, V., Chou., T., Hu., X. S., Tardif, T., Booth, J.R., Beltz, A.M., & Kovelman, I. (In Press). Bilingual proficiency enhances neural network density: Sources of heterogeneity in children’s functional connectivity during English word processing. *Neurobiology of Language*. [https://doi.org/10.1162/nol_a_00092](https://doi.org/10.1162/nol_a_00092)
+1. **Yu, C. L.** & Wellman, H. M. (2023). All humans have a "theory of mind." *Journal of Autism and Developmental Disorders*, *53*, 2531–2534. [https://doi.org/10.1007/s10803-022-05584-1](https://doi.org/10.1007/s10803-022-05584-1)
 
-1. Sun, X., Marks, R., Eggleston, R, Zhang, K., Lau, C., **Yu, C. L.**, Nickerson, N., & Kovelman, I. (2023). Impacts of the COVID-19 disruption on the language and literacy development of monolingual and heritage bilingual children in the United States. *Reading and Writing*, 36(2), 347-375. [https://doi.org/10.1007/s11145-022-10388-x](https://doi.org/10.1007/s11145-022-10388-x)
+1. Sun, X., Marks, R., Eggleston, R., Zhang K., **Yu, C. L.**, Nickerson, N., Caruso, V., Chou., T., Hu., X. S., Tardif, T., Booth, J.R., Beltz, A.M., & Kovelman, I. (2023). Bilingual proficiency enhances neural network density: Sources of heterogeneity in children’s functional connectivity during English word processing. *Neurobiology of Language*, *4*(2), 198-220. [https://doi.org/10.1162/nol_a_00092](https://doi.org/10.1162/nol_a_00092)
+
+1. Sun, X., Marks, R., Eggleston, R, Zhang, K., Lau, C., **Yu, C. L.**, Nickerson, N., & Kovelman, I. (2023). Impacts of the COVID-19 disruption on the language and literacy development of monolingual and heritage bilingual children in the United States. *Reading and Writing*, *36*(2), 347-375. [https://doi.org/10.1007/s11145-022-10388-x](https://doi.org/10.1007/s11145-022-10388-x)
 
 1. Marks, R., Labotka, D., Sun, X., Nickerson, N., Zhang, K., Eggleston, R., **Yu, C. L.**, Uchikoshi Y., Hoeft F., & Kovelman, I. (2023). Morphological awareness and its role in early word reading in English monolinguals, Spanish–English, and Chinese–English simultaneous bilinguals.. *Bilingualism: Language and Cognition*, *26*(2), 268-283. [https://doi.org/10.1017/S1366728922000517](https://doi.org/10.1017/S1366728922000517)
 
