@@ -10,9 +10,9 @@ comments: true
 
 1. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson, S. L. (Under Revision). Theory of mind and executive function underlie childhood psychotic symptoms.
 
+1. **Yu, C. L.**, Gau S. F., Lin, H. Y., Lai, M. C., Lee, S. H., & Chou, T. L. (Under Revision). Atypical neural factor structures underlying theory of mind processing in autism: an fMRI study.
 
 1. Eggleston, R., Marks, R., Sun, X., **Yu, C. L.**, Zhang, K., Nickerson, N., Caruso, V., Hu, X. S., & Kovelman, I. (Under Review). Brain bases of morphological awareness differ between typical readers and children with dyslexia.
-
 
 1. Nickerson, N., Sun, X., Caruso, V., Zhang, K., **Yu, C. L.**, Eggleston, R., Chaku, N., Hu, X. S., Satterfield, T. & Kovelman, I. (Under Review). What’s in the sound? Common and language-specific patterns in brain activation and functional connectivity for phonological awareness in Spanish-English bilinguals.
 
