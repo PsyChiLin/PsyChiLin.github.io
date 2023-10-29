@@ -6,8 +6,6 @@ comments: true
 ---
 1. **Yu, C. L.**, Eggleston, R., Zhang, K., Nickerson, N., Sun, X., Marks, R., Hu, X. S., Brennan, J. R., Wellman, H. M., & Kovelman, I. (Under Revision) Neural processing of children’s theory of mind in a naturalistic story-listening paradigm. [https://psyarxiv.com/8ns5v](https://psyarxiv.com/8ns5v)
 
-1. **Yu, C. L.**, & Wellman, H. M. (Under Revision). Where do differences in theory-of-mind development come from? An agent-based model of social interaction and theory-of-mind.
-
 1. **Yu, C. L.**, Lee, S., Wellman, H. M., & Olson, S. L. (Under Revision). Theory of mind and executive function underlie childhood psychotic symptoms.
 
 1. **Yu, C. L.**, Gau S. F., Lin, H. Y., Lai, M. C., Lee, S. H., & Chou, T. L. (Under Revision). Atypical neural factor structures underlying theory of mind processing in autism: an fMRI study.
@@ -18,7 +16,9 @@ comments: true
 
 Peer-Reviewed Journal Articles
 =====
-1. Hong, S., **Yu, C. L.**, Rousson, A., Bender, A., Fedina, L., Herrenkohl, T. (In Press). Exploring the impact of adversity history on internalizing symptoms in adulthood: Analysis of types, repetition, variety, and timing of past adversity. Journal of Interpersonal Violence.
+1. **Yu, C. L.**, & Wellman, H. M. (In Press). Where do differences in theory-of-mind development come from? An agent-based model of social interaction and theory-of-mind. *Frontiers in Developmental Psychology.*
+
+1. Hong, S., **Yu, C. L.**, Rousson, A., Bender, A., Fedina, L., Herrenkohl, T. (In Press). Exploring the impact of adversity history on internalizing symptoms in adulthood: Analysis of types, repetition, variety, and timing of past adversity. *Journal of Interpersonal Violence.*
 
 1. Zhang, K., Sun, X., **Yu, C. L.**, Eggleston, R., Marks, R., Nickerson, N., Caruso, V., Hu, X. S., Tardif, T., Chou., T. L., Booth, J. R. & Kovelman, I. (2023). Phono- logical and morphological literacy skills in English and Chinese: A cross-linguistic neu- roimaging comparison of Chinese-English bilingual and monolingual English children. Human Brain Mapping, 44(13), 4812–4829. [https://doi.org/10.1002/hbm.26419](https://doi.org/10.1002/hbm.26419)
 
