@@ -59,6 +59,8 @@ Peer-Reviewed Journal Articles
 Selected Talks and Presentations
 =====
 
+- **Yu, C. L.**, Eggleston, R., Zhang, K., Nickerson, N., Sun, X., Marks, R., Hu, X. S., Brennan, J. R., Wellman, H. M., & Kovelman, I. (2023, October). *Using a naturalistic listening paradigm to study brain bases of language comprehension in developmental dyslexia.* Symposium presentation at the 2023 Annual Reading, Literacy, & Learning Conference of the International Dyslexia Association (IDA), Columbus.
+
 - **Yu, C. L.**, Stanzione, C. M., Branum-Martin, L., Wellman, H. M., & Lederberg, A. R. (2023, March). *Theory of mind development in deaf children: The effects of language exposure and usage*. Poster presented at the 2023 Biennial Meeting of the Society for Research in Child Development (SRCD), Salt Lake City.
 
 - **Yu, C. L.** & Wellman, H. M.  (2023, March). *Where do differences in theory-of-mind development come from? An agent-based model of social interaction and theory-of-mind*. Poster presented at the 2023 Biennial Meeting of the Society for Research in Child Development (SRCD), Salt Lake City.
