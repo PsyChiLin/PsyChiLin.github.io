@@ -8,11 +8,11 @@ main:
   #- title: "Research"
   #  url: /research/
     
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
     
-  - title: "Software"
-    url: /software/
+  #- title: "Software"
+  #  url: /software/
 
   - title: "CV"
-    url: https://github.com/PsyChiLin/CV/blob/master/Chi-Lin_Yu_CV.pdf
+    url: /Chi_Lin_Yu_CV.pdf/ #https://github.com/PsyChiLin/CV/blob/master/Chi-Lin_Yu_CV.pdf
